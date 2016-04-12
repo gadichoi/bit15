@@ -1,0 +1,7 @@
+Origin: Test repo
+Label: test repo
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Descriptions: Test repo des

@@ -1,0 +1,8 @@
+Package: com.autotouch
+Name: autotouch
+Version: 1.0
+Architecture: iphoneos-arm
+Description: autotouch
+Maintainer: gadichoi
+Author: gadichoi
+Section: Tweak

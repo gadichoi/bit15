@@ -1,0 +1,10 @@
+Origin: Test repo
+Label: test repo
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Descriptions: Test repo des
+File: ./projects/AutoTouch/DEBIAN/bit.autotouch.ios8_3.5.4k_iphoneos-arm.deb
+Size: 2976274
+MD5sum: 63978206cb008b41845b0eb2301e3ee9
